@@ -17,8 +17,8 @@ GROUP_ID = -1003982153873  # Tasdiqlash guruhi ID si
 
 ADMIN_IDS = [1118535187]  # Bot adminlari
 
-CARD_NUMBER = "5614681871473652"
-CARD_OWNER = "jasurbek t"
+CARD_NUMBER = "9860350143351087"
+CARD_OWNER = "Shoyimqulov F"
 
 VIP_PRICES = {
     "1_kun": 6000,
